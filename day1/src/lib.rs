@@ -37,6 +37,7 @@ pub fn solvep2(input: &str)-> u64 {
     result
 }
 
+
 #[cfg(test)]
 mod tests {
     use std::fs;
